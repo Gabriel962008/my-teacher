@@ -1,0 +1,10 @@
+GET http://127.0.0.1:8000/professores
+
+###
+POST http://127.0.0.1:8000/professores/1/aulas
+Content-Type: application/json
+
+{
+    "nome":"Aluno de testes",
+    "email":"aluno.teste@email.com"
+}
