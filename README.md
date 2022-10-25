@@ -3,6 +3,7 @@
 </p>
 
 <hr>
+
 # Sobre o projeto
 
 
@@ -15,7 +16,7 @@ de aplicações de médio e grande porte.</p>
 
 <p><img  src="frontend/public/imagens/projeto.gif" /></p>
 
-## Pré-requisitos
+# Pré-requisitos
 
 Antes de comecar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com), [Docker](https://www.docker.com/). E também bom ter um editor de texto para para trabalhar com o código fonte como [VSCode](https://code.visualstudio.com/) por exemplo.
 
@@ -26,7 +27,7 @@ Antes de comecar, você vai precisar ter instalado em sua máquina as seguintes 
 
 ```bash
 #Baixar o repositório do projeto
-git clone git@bitbucket.org:gabrielalves962008/my-teacher.git
+git clone https://github.com/Gabriel962008/my-teacher.git
 
 #acessando a pasta com a aplicação 
 cd my-teacher
